@@ -1,4 +1,4 @@
 # Biryani
 
 * chicken pieces 
-* biryani rice
+* dum chicken pieces

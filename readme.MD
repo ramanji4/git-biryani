@@ -1,4 +1,5 @@
 # Biryani
 
 * chicken pieces 
-* biryani rice
+* dum chicken pieces
+* cooked biryani rice dum whole biryani
